@@ -1,4 +1,4 @@
-This repostory is for testing and learning Python
+This is a repostory for Testing Python with CV2 and Imutils
 
 
 MrBogdanYT @ 2023 
